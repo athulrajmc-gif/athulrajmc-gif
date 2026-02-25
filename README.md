@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Athulraj M C
 
-<!--
-**athulrajmc-gif/athulrajmc-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Data Science Enthusiast
 
-Here are some ideas to get you started:
+📍 Kozhikode, Kerala, India  
+📧 athulrajmc@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Analytically driven Data Science and Analytics professional skilled in:
+
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Data Visualization
+
+I enjoy solving real-world business problems using data.
+
+---
+
+## 🛠️ Skills
+
+**Languages & Tools:**
+
+Python • SQL • Pandas • NumPy • Scikit-learn  
+Power BI • Tableau • Excel • Git
+
+---
+
+## 📊 Projects
+
+🔹 Employee Retention Prediction  
+🔹 Hotel Reservation Cancellation Analysis  
+🔹 Weather Classification Model  
+
+---
+
+## 🌐 Portfolio Website
+
+👉 https://athulrajmc-gif.github.io
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/athulrajmc000
