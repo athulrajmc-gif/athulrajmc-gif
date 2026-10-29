@@ -1,17 +1,13 @@
-<!-- Header banner -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=190&section=header&text=Athulraj%20M%20C&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descSize=18&descAlignY=60" alt="Athulraj M C banner" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,24&height=230&section=header&text=Athulraj%20M%20C&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20Python%20ML%20Model%20Builder&descSize=18&descAlignY=62" width="100%" alt="Athulraj M C banner" />
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/athulrajmc-gif">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&pause=1200&color=7C5CFF&center=true&vCenter=true&width=560&lines=Turning+messy+data+into+clear+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Dashboards%2C+reports+and+machine+learning" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&pause=1200&color=7C5CFF&center=true&vCenter=true&width=620&lines=Turning+messy+data+into+clear+decisions;I+build+machine+learning+models+in+Python;Dashboards+in+Power+BI+and+Tableau;SQL+%7C+Pandas+%7C+Scikit-learn" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  📍 Kozhikode, Kerala, India &nbsp;•&nbsp; 📧 <a href="mailto:athulrajmc@gmail.com">athulrajmc@gmail.com</a>
+  📍 Kozhikode, Kerala, India &nbsp;·&nbsp; 📧 <a href="mailto:athulrajmc@gmail.com">athulrajmc@gmail.com</a>
 </p>
 
 <p align="center">
@@ -20,21 +16,80 @@
   <a href="mailto:athulrajmc@gmail.com"><img src="https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
 
-## 👋 About me
+## ✨ About me
 
-I'm a data analyst with **1 year 3 months** of experience at **Wahy Lab Solutions**, **Skillytixs** and **Spinnaker Analytics**. I build dashboards and reports, clean and analyze data, and train machine learning models that help teams make better decisions.
+I'm a data analyst with **1 year 3 months** of experience at **Wahy Lab Solutions**, **Skillytixs** and **Spinnaker Analytics**. I clean and analyze data, build dashboards that track KPIs, and **build machine learning models in Python** that predict customer and business outcomes.
 
-- 📊 Building KPI dashboards in **Power BI** and **Tableau**
-- 🐍 Cleaning and exploring data with **Python** and **Pandas**
-- 🗄️ Writing **SQL** queries for recurring and ad hoc reports
-- 🤖 Creating predictive models to find patterns in data
-- 🎓 Diploma in Data Science with AI, Boston Institute of Analytics (2025)
+<table>
+  <tr>
+    <td align="center"><b>🧹 Clean</b><br/>Pandas, SQL</td>
+    <td align="center"><b>🔍 Explore</b><br/>EDA, Excel</td>
+    <td align="center"><b>🤖 Model</b><br/>Python, Scikit-learn</td>
+    <td align="center"><b>📊 Visualize</b><br/>Power BI, Tableau</td>
+    <td align="center"><b>💡 Advise</b><br/>KPI reports</td>
+  </tr>
+</table>
 
----
+🎓 Diploma in Data Science with AI, Boston Institute of Analytics (2025)
 
-## 🛠️ Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
+
+## 🤖 Machine learning models I've built in Python
+
+I build end-to-end models: cleaning the data, exploring patterns, training and testing the model, then turning the results into advice a business can act on.
+
+| Model | Problem it solves |
+| :-- | :-- |
+| 📞 **Telecom churn prediction** | Predicts which customers are likely to leave |
+| 🏨 **Hotel cancellation prediction** | Predicts booking cancellations to protect revenue |
+| 🌦️ **Weather classification** | Classifies weather summaries from meteorological factors |
+| 🛒 **Retail basket analysis** | Finds products that sell together using Apriori association rules |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
+
+## 📊 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Retail Analytics for SmartMart</h3>
+      <p>End-to-end retail analysis with Apriori association rules, SQL stock insights and Power BI dashboards. Recommends bundles, shelf placement and inventory changes.</p>
+      <sub><b>Python · Pandas · mlxtend · SQL · Power BI</b></sub><br/><br/>
+      <a href="https://github.com/athulrajmc-gif/Retail_Aanalytics_End_to_End">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📞 Telecom Churn Prediction</h3>
+      <p>A machine learning model that predicts whether a telecom customer will leave, built on the Telco Customer Churn dataset.</p>
+      <sub><b>Python · Machine learning</b></sub><br/><br/>
+      <a href="https://github.com/athulrajmc-gif/TELCOM-CHURN-PRDICTION">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 Hotel Reservation Cancellation Analysis</h3>
+      <p>Models that predict booking cancellations to improve revenue management, resource planning and guest retention.</p>
+      <sub><b>Python · Machine learning</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather Classification Model</h3>
+      <p>A model that accurately classifies weather summaries from meteorological factors.</p>
+      <sub><b>Python · Machine learning</b></sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
+
+## 🛠️ Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -49,20 +104,9 @@ I'm a data analyst with **1 year 3 months** of experience at **Wahy Lab Solution
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Also:** DAX • Pivot Tables • VLOOKUP / HLOOKUP • Data Cleansing • Data Visualization • Dashboarding • Data Reporting
+**Also:** DAX · Pivot Tables · VLOOKUP / HLOOKUP · Data Cleansing · Data Visualization · Dashboarding · Data Reporting
 
----
-
-## 📊 Projects
-
-| Project | What it does | Tools |
-| :-- | :-- | :-- |
-| 🛒 [**Retail Analytics for SmartMart**](https://github.com/athulrajmc-gif/Retail_Aanalytics_End_to_End) | End-to-end retail analysis with Apriori association rules, SQL stock insights and Power BI dashboards. Gives recommendations on bundling, shelf placement and inventory. | Python, Pandas, mlxtend, SQL, Power BI |
-| 📞 [**Telecom Churn Prediction**](https://github.com/athulrajmc-gif/TELCOM-CHURN-PRDICTION) | Predicts whether a telecom customer will leave, using machine learning. | Python, Machine learning |
-| 🏨 **Hotel Reservation Cancellation Analysis** | Predicts booking cancellations to improve revenue management and guest retention. | Python, Machine learning |
-| 🌦️ **Weather Classification Model** | Classifies weather summaries from meteorological factors. | Python, Machine learning |
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
 
 ## 💼 Experience
 
@@ -70,23 +114,20 @@ I'm a data analyst with **1 year 3 months** of experience at **Wahy Lab Solution
 - **Data Analyst Intern**, Skillytixs
 - **Data Analytics Intern**, Spinnaker Analytics
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=3" width="100%" alt="" />
 
-## 📈 GitHub stats
+## 📈 GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=athulrajmc-gif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C5CFF&icon_color=FF6B9D&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulrajmc-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C5CFF&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/athulrajmc-gif?style=for-the-badge&logo=github&color=7C5CFF&labelColor=181717" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=athulrajmc-gif&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
-
-## 🌐 Portfolio website
-
-**👉 [athulrajmc-gif.github.io](https://athulrajmc-gif.github.io)**
+## 🌐 Portfolio
 
 <p align="center">
+  <b>👉 <a href="https://athulrajmc-gif.github.io">athulrajmc-gif.github.io</a></b><br/>
   <i>Open to data analyst roles and collaborations. Let's connect!</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer" width="100%" alt="" />
